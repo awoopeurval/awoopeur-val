@@ -1,3 +1,5 @@
+## 🚀 Overview
+# 🚀 Overview
 # Data Scientist | Machine Learning & NLP | RAG Systems | Applied AI
 
 ## 🧠 ABOUT ME
