@@ -1,5 +1,5 @@
 # Data Scientist | Machine Learning & NLP | RAG Systems | Applied AI
-
+# 🚀 Overview
 ## 🧠 ABOUT ME
 
 Hello, I'm **Val Awoopeur**, a Data Scientist specializing in **Machine Learning, Natural Language Processing, and data-driven systems**.
