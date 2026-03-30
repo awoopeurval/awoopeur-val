@@ -1,7 +1,7 @@
 # Data Scientist | Machine Learning & NLP | RAG Systems | Applied AI
-# 🚀 Overview
-## 🧠 ABOUT ME
 
+
+## 🚀  ABOUT ME 
 Hello, I'm **Val Awoopeur**, a Data Scientist specializing in **Machine Learning, Natural Language Processing, and data-driven systems**.
 
 I have a strong background in designing and developing **data-centric solutions**, including **RAG (Retrieval-Augmented Generation)** systems, anomaly detection, and large-scale data processing. My work focuses on transforming complex data into **actionable insights and intelligent applications**.
@@ -106,6 +106,7 @@ PAODES University, Haiti(November 2011 - August 2015)
 
 ## 📫 CONTACT
 
-📍 Hanoi, Vietnam
-📧 Email: valawoopeur@gmail.com
-🔗 GitHub | LinkedIn
+-📍 **Location:** Hanoi, Vietnam 
+- 📧 **Email:** valawoopeur@gmail.com
+- 🔗 **GitHub** | **LinkedIn:**
+
