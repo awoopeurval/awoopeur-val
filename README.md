@@ -108,5 +108,5 @@ PAODES University, Haiti(November 2011 - August 2015)
 
 -📍 **Location:** Hanoi, Vietnam 
 - 📧 **Email:** valawoopeur@gmail.com
-- 🔗 **GitHub** | **LinkedIn:**
+- 🔗 **GitHub** | **LinkedIn:**: https://www.linkedin.com/feed/
 
