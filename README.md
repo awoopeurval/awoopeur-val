@@ -92,7 +92,7 @@ La Rochelle University, France (2024)
 Vietnam National University, Hanoi (2023)
 
 **Bachelor of Technology (Information Technology)**
-PAODES University, Haiti(November 2011 - August 2015)
+PAODES University, Haiti(2015)
 
 ---
 
